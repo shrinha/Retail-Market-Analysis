@@ -4,6 +4,6 @@ The original Online Retail data set is available to download on the [UCI Machine
 
 The project involves preprocessing and cleaning and detailed analysis using Pyspark and Hadoop.
 The following additional tasks are also implemented:
- Customer Segmentation with K Means 
- Association Rule Mining
- Introductory RFM Analysis and Result Visualization
+* Customer Segmentation with K Means 
+* Association Rule Mining
+* Introductory RFM Analysis and Result Visualization
